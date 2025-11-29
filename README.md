@@ -1,4 +1,3 @@
-# Aramooba {
 MIT License
 
 Copyright (c) [2025] [Aramooba]
